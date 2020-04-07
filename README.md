@@ -1,4 +1,4 @@
-## Project 2 - Ghost Tracker
+## Project 2 - Ghost Tracker // https://youtu.be/dhzsFkL14MQ (view video here)
 
 ### Jake Hanicak / 4-7-20 / Interaction Design
 
